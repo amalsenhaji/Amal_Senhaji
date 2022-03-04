@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amalsenhaji
 - 👀 I’m interested in Game Dev
-- 🌱 I’m currently learning C & C++ Programming Languages
+- 🌱 I’m currently learning C & C++ & java script Programming Languages
 - 📫 Reach me on: amsenhaj@student.1337.ma
 
 <!---
